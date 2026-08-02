@@ -4,7 +4,7 @@ First time contributing, **please note we enforce** [commit message conventions]
 
 ### Commit message
 
-```
+```txt
 feat(example): migrate S3 URL to virtual hosted-style
 ^--^ ^-----^   ^------------------------------------^
 |    |         |
